@@ -1,6 +1,6 @@
 # Quiz-Game
 
-Created a simple quiz app in Java
+# Created a simple quiz app in Java
 
 # Applied OOPS Concepts like Encapsulation in the code.
 
